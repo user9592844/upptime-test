@@ -4,19 +4,19 @@
     "url": "https://www.archlinux.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.archlinux.org.ico",
     "slug": "arch-linux-website",
-    "status": "up",
-    "uptime": "94.92%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "94.92%",
-    "uptimeMonth": "94.92%",
-    "uptimeYear": "94.92%",
+    "status": "down",
+    "uptime": "97.40%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "97.40%",
     "time": 1552,
-    "timeDay": 1552,
+    "timeDay": 1536,
     "timeWeek": 1552,
     "timeMonth": 1552,
     "timeYear": 1552,
     "dailyMinutesDown": {
-      "2025-09-19": 66
+      "2025-09-19": 55
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1151,
-    "timeDay": 1151,
-    "timeWeek": 1151,
-    "timeMonth": 1151,
-    "timeYear": 1151,
+    "time": 1176,
+    "timeDay": 1250,
+    "timeWeek": 1176,
+    "timeMonth": 1176,
+    "timeYear": 1176,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 507,
-    "timeWeek": 507,
-    "timeMonth": 507,
-    "timeYear": 507,
+    "time": 503,
+    "timeDay": 491,
+    "timeWeek": 503,
+    "timeMonth": 503,
+    "timeYear": 503,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 692,
-    "timeWeek": 692,
-    "timeMonth": 692,
-    "timeYear": 692,
+    "time": 736,
+    "timeDay": 865,
+    "timeWeek": 736,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {}
   }
 ]
