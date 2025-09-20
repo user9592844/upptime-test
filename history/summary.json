@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.archlinux.org.ico",
     "slug": "arch-linux-website",
     "status": "up",
-    "uptime": "97.19%",
-    "uptimeDay": "95.89%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "97.19%",
-    "uptimeYear": "97.19%",
+    "uptime": "97.59%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "97.59%",
     "time": 1540,
     "timeDay": 1517,
     "timeWeek": 1540,
     "timeMonth": 1540,
     "timeYear": 1540,
     "dailyMinutesDown": {
-      "2025-09-19": 60
+      "2025-09-19": 55
     }
   },
   {
