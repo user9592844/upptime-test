@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.archlinux.org.ico",
     "slug": "arch-linux-website",
     "status": "up",
-    "uptime": "67.96%",
-    "uptimeDay": "13.41%",
-    "uptimeWeek": "65.33%",
-    "uptimeMonth": "67.96%",
-    "uptimeYear": "67.96%",
+    "uptime": "70.05%",
+    "uptimeDay": "66.19%",
+    "uptimeWeek": "65.88%",
+    "uptimeMonth": "70.05%",
+    "uptimeYear": "70.05%",
     "time": 2084,
     "timeDay": 4345,
-    "timeWeek": 2188,
+    "timeWeek": 2288,
     "timeMonth": 2084,
     "timeYear": 2084,
     "dailyMinutesDown": {
@@ -65,9 +65,9 @@
     "url": "https://aur.archlinux.org",
     "icon": "https://icons.duckduckgo.com/ip3/aur.archlinux.org.ico",
     "slug": "arch-linux-user-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +76,8 @@
     "timeWeek": 869,
     "timeMonth": 816,
     "timeYear": 816,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-26": 0
+    }
   }
 ]
