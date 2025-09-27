@@ -1,7 +1,7 @@
 url: https://bbs.archlinux.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-27T04:16:53.344Z
+status: up
+code: 200
+responseTime: 785
+lastUpdated: 2025-09-27T04:34:37.435Z
 startTime: 2025-09-18T12:07:26.796Z
 generator: Upptime <https://github.com/upptime/upptime>
